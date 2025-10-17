@@ -1,6 +1,9 @@
 # Kali-Terminal-Guide
 kali in windows-guide 
 
+
+Don’t use WSL for low-level wireless attacks (monitor mode, packet injection), advanced hardware passthrough (USB Wi-Fi adapters), or kernel-module-level tools. For those, use a VM with USB passthrough (VirtualBox/VMware) or a live Kali USB / dual-boot.
+
 🧠 Step-by-Step Guide to Install Kali Linux on Windows
 1️⃣ Enable WSL and Virtualization
 
